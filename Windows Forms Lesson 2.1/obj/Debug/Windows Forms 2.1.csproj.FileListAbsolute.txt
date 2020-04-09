@@ -1,0 +1,19 @@
+E:\Creativity\Programs\C#\Windows Forms 2.1\bin\Debug\Windows Forms 2.1.exe.config
+E:\Creativity\Programs\C#\Windows Forms 2.1\bin\Debug\Windows Forms 2.1.exe
+E:\Creativity\Programs\C#\Windows Forms 2.1\bin\Debug\Windows Forms 2.1.pdb
+E:\Creativity\Programs\C#\Windows Forms 2.1\obj\Debug\Windows Forms 2.1.csprojAssemblyReference.cache
+E:\Creativity\Programs\C#\Windows Forms 2.1\obj\Debug\Windows_Forms_2._1.Form1.resources
+E:\Creativity\Programs\C#\Windows Forms 2.1\obj\Debug\Windows_Forms_2._1.Properties.Resources.resources
+E:\Creativity\Programs\C#\Windows Forms 2.1\obj\Debug\Windows Forms 2.1.csproj.GenerateResource.cache
+E:\Creativity\Programs\C#\Windows Forms 2.1\obj\Debug\Windows Forms 2.1.exe
+E:\Creativity\Programs\C#\Windows Forms 2.1\obj\Debug\Windows Forms 2.1.pdb
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\bin\Debug\Windows Forms 2.1.exe.config
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\bin\Debug\Windows Forms 2.1.exe
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\bin\Debug\Windows Forms 2.1.pdb
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows Forms 2.1.csprojAssemblyReference.cache
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows_Forms_2._1.Form1.resources
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows_Forms_2._1.Properties.Resources.resources
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows Forms 2.1.csproj.GenerateResource.cache
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows Forms 2.1.csproj.CoreCompileInputs.cache
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows Forms 2.1.exe
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.1\obj\Debug\Windows Forms 2.1.pdb
